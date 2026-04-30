@@ -154,10 +154,11 @@ Through this project, the following topics are demonstrated:
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
 **Mohammad Barabadi**  
-GitHub: [@mohammadbrd](https://github.com/mohammadbrd)
+GitHub: [@mohammadbrd](https://github.com/mohammadbrd)  
+Linkedin: [@mohammadbrd](https://www.linkedin.com/in/mohammadbrd/)
 
 ---
 
