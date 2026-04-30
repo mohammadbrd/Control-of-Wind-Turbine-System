@@ -140,18 +140,6 @@ Fuzzy PID control provides an adaptive solution by using rule-based reasoning to
 
 ---
 
-## 🛠️ Technologies Used
-
-| Tool / Concept | Purpose |
-|---|---|
-| MATLAB | Numerical computing and project environment |
-| Simulink | Dynamic system modeling and simulation |
-| Fuzzy Logic Toolbox | Fuzzy inference system design |
-| PID Control | Feedback control strategy |
-| Wind Turbine Modeling | Renewable energy system simulation |
-
----
-
 ## 📚 Learning Outcomes
 
 Through this project, the following topics are demonstrated:
