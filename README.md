@@ -154,11 +154,10 @@ Through this project, the following topics are demonstrated:
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 
 **Mohammad Barabadi**  
-Master’s Student in Autonomy Technologies  
-Friedrich-Alexander-Universität Erlangen-Nürnberg
+GitHub: [@mohammadbrd](https://github.com/mohammadbrd)
 
 ---
 
